@@ -1,0 +1,1 @@
+This is Eleonora's first git project!
